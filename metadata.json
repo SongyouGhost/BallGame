@@ -1,0 +1,5 @@
+{
+  "name": "Gravity Ball Sort Puzzle",
+  "description": "A vertical sorting game. Start with identical color rows and organize them into solid color columns using a swap mechanic and gravity logic.",
+  "requestFramePermissions": []
+}
